@@ -24,3 +24,19 @@ Refer below screeshot for more details
    
 ![Backup Script1](https://github.com/user-attachments/assets/7ccc2ab0-c9ad-4134-a372-ca9308ff7719)
 ![Backup script testing1](https://github.com/user-attachments/assets/cb9eacb1-a34f-45c8-9923-e1f76a480810)
+
+
+<br>3. User Information:</br>
+<br>   - Username</br>
+<br>  - User ID</br>
+<br>   - Group ID</br>
+<br>  - Home Directory</br>
+
+<strong> Solution:-</strong><br>user_info.sh script created to show user information.</br>
+
+user_info.sh Script
+![user_infoscript](https://github.com/user-attachments/assets/18771a5a-9269-4322-ae50-ea48f78142c5)
+
+Testing user_info.sh
+![User_info_testing](https://github.com/user-attachments/assets/cc5c2d3b-f1d6-49f7-bab4-0046cc4d775f)
+
