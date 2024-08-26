@@ -51,4 +51,18 @@ Testing user_info.sh
 
 <br>check_permissions.sh Testing</br>
 ![check_permission testing1](https://github.com/user-attachments/assets/0eded4e6-8a42-4e22-8bad-219356e330b1)
+
+<br>6. Automated Backup:</br>
+<strong> Solution:-</strong><br> backup_documents.sh script that compresses the `/home/user/documents` directory into a tarball named `documents_backup.tar.gz` and moves it to the `/home/user/backup` directory. This script should be scheduled to run daily using cron</br>
+
+<br>backup_documents.sh script</br>
+![Automated Backup_script1](https://github.com/user-attachments/assets/70efe9dd-6e71-496b-be8e-22aef9295f17)
+
+<br>backup_documents.sh script testing</br>
+![Automated Backup_script_testing1](https://github.com/user-attachments/assets/6f2b46a5-dbd3-40ae-9bd0-476e44c3fd24)
+
+<br>Cron Job to script schedule at 02:00 AM </br>
+![Automated Backup_script_Schedule_crontab1](https://github.com/user-attachments/assets/2a476ec9-03f8-4118-8f1e-7c6eb62ec4c7)
+
+
    
