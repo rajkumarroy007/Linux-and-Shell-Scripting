@@ -64,5 +64,14 @@ Testing user_info.sh
 <br>Cron Job to script schedule at 02:00 AM </br>
 ![Automated Backup_script_Schedule_crontab1](https://github.com/user-attachments/assets/2a476ec9-03f8-4118-8f1e-7c6eb62ec4c7)
 
+<br>7. Process Monitor:</br>
+<strong> Solution:-</strong><br> check_and_start_apache.sh script that checks if a specific process (e.g., `apache2`) is running. If the process is not running, the script should start the process and log the action to a file.</br>
 
-   
+<br> check_and_start_apache.sh script</br>
+![Process Monitor_script1](https://github.com/user-attachments/assets/710ced72-17b3-4531-8aa5-a10f5df05f9b)
+
+<br> check_and_start_apache.sh script testing</br>
+![Process Monitor_Testing1](https://github.com/user-attachments/assets/7bce0b0b-2e30-4e2d-ab19-611e5a640eb1)
+
+<br> cron job check_and_start_apache.sh script</br>
+![Process Monitor_crontab1](https://github.com/user-attachments/assets/05dce7d9-a757-4b11-8f7d-9172b0696d72)
