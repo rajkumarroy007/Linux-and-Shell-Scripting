@@ -83,3 +83,21 @@ Testing user_info.sh
 
 <br> count_file_content.sh script testing</br>
 ![Text_File_Analysis_File_Content Testing](https://github.com/user-attachments/assets/e15e44e2-5c00-448b-97b6-1a5aa7eeabb0)
+
+<br>9. System Information Report</br>
+<strong> Solution:-</strong><br>  generate_system_report.sh script that generates a system information report. The report should include:</br>
+<br>   - System uptime</br>
+<br>  - Memory usage</br>
+<br> - CPU load</br>
+<br>   - Disk usage</br>
+<br>  - Running processes</br>
+<br>The report saved to a file named `system_report.txt`.</br>
+
+<br> generate_system_report.sh script</br>
+![System Information Report_script1](https://github.com/user-attachments/assets/e393dd07-4340-4f65-933d-425b5416d1fd)
+
+<br> generate_system_report.sh script testing<br>
+![System Information Report_script_testing1](https://github.com/user-attachments/assets/1b0e3546-c645-47d6-b566-ca3faf6b9f68)
+
+<br> System Information Report system_report.txt <br>
+![System report](https://github.com/user-attachments/assets/703b5388-edb6-418e-8509-3dc39b41b65d)
