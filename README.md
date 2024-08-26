@@ -46,5 +46,9 @@ Testing user_info.sh
 <br>5. File Permission Checker:</br>
 <strong> Solution:-</strong><br>check_permissions.sh script created to check file permission in output file. Refer attached screenshots</br>
 
+<br>check_permissions.sh script</br>
+![check_permission1](https://github.com/user-attachments/assets/6836196f-e7f4-47bd-a7ac-0a12f47749ff)
 
+<br>check_permissions.sh Testing</br>
+![check_permission testing1](https://github.com/user-attachments/assets/0eded4e6-8a42-4e22-8bad-219356e330b1)
    
