@@ -40,3 +40,11 @@ user_info.sh Script
 Testing user_info.sh
 ![User_info_testing](https://github.com/user-attachments/assets/cc5c2d3b-f1d6-49f7-bab4-0046cc4d775f)
 
+<br>4. Disk Usage Alert:</br>
+
+
+<br>5. File Permission Checker:</br>
+<strong> Solution:-</strong><br>check_permissions.sh script created to check file permission in output file. Refer attached screenshots</br>
+
+
+   
