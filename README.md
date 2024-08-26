@@ -101,3 +101,19 @@ Testing user_info.sh
 
 <br> System Information Report system_report.txt <br>
 ![System report](https://github.com/user-attachments/assets/703b5388-edb6-418e-8509-3dc39b41b65d)
+
+
+<br>10. Simple Calculator: </br>
+<strong> Solution:-</strong><br>simple_calculator.sh script script that acts as a simple calculator. The script should prompt the user to enter two numbers and an operator (+, -, *, /) and then display the result of the operation.</br>
+
+<br> simple_calculator.sh script </br>
+
+![Simple Calculator_script1](https://github.com/user-attachments/assets/dda0696b-c34a-41e4-bafb-3e7bacf6d4a4)
+
+<br> simple_calculator.sh script testing </br>
+
+![Simple Calculator_script_testing1](https://github.com/user-attachments/assets/9b55d1eb-aba8-43a0-8432-f124164f55f1)
+
+
+
+
