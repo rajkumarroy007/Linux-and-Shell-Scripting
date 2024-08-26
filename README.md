@@ -75,3 +75,11 @@ Testing user_info.sh
 
 <br> cron job check_and_start_apache.sh script</br>
 ![Process Monitor_crontab1](https://github.com/user-attachments/assets/05dce7d9-a757-4b11-8f7d-9172b0696d72)
+
+<br>8. Text File Analysis:</br>
+<strong> Solution:-</strong><br>  count_file_content.sh script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script should display the counts.</br>
+<br> count_file_content.sh script</br>
+![Text_File_Analysis_File_Content Script](https://github.com/user-attachments/assets/f6ae5111-868e-4b48-ab89-cb4f6a1bd793)
+
+<br> count_file_content.sh script testing</br>
+![Text_File_Analysis_File_Content Testing](https://github.com/user-attachments/assets/e15e44e2-5c00-448b-97b6-1a5aa7eeabb0)
