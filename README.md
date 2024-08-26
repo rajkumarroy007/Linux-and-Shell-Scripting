@@ -41,7 +41,15 @@ Testing user_info.sh
 ![User_info_testing](https://github.com/user-attachments/assets/cc5c2d3b-f1d6-49f7-bab4-0046cc4d775f)
 
 <br>4. Disk Usage Alert:</br>
+<strong> Solution:-</strong><br> disk_usage_alert.sh script that checks the disk usage of the root filesystem. If the disk usage is above 80%, the script should send an email alert to the system administrator.
 
+<br>disk_usage_alert.sh script</br>
+
+
+<br>disk_usage_alert.sh script testing</br>
+
+
+<br>disk_usage_alert.sh mail alert</br>
 
 <br>5. File Permission Checker:</br>
 <strong> Solution:-</strong><br>check_permissions.sh script created to check file permission in output file. Refer attached screenshots</br>
